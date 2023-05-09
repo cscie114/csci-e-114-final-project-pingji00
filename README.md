@@ -11,3 +11,4 @@ To setup a local development enviroment
 **Wordpress Admin**: http://localhost:8888/wordpress/wp-admin/      #the port number is depend on your wordpress server
 **Gatsby Frontend**: http://localhost:8000/
 
+ 
